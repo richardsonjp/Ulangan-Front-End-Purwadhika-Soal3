@@ -1,0 +1,11 @@
+.app{
+  text-align: center;
+  align-content: center;
+}
+
+tr, td, th{
+  border: 1px solid black;
+  width: 38%;
+  height: 30px;
+  text-align: center;
+}
